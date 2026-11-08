@@ -1,0 +1,37 @@
+{
+  "repository": "https://github.com/engpierre/Swarm-gemini-quant-skills.git",
+  "last_sync": "2026-11-08T15:59:59.659320Z",
+  "total_skills": 5,
+  "skills": [
+    {
+      "name": "agent-gateway-security",
+      "path": "skills/agent-gateway-security/SKILL.md",
+      "description": "Enforces strict blast-radius containment, immutable subsystem boundaries, and mandatory read-only SQLite URI modes across the Pierre Quant multi-agent architecture.",
+      "synced_at": "2026-11-08T15:59:59.657803Z"
+    },
+    {
+      "name": "gemini-api-cli",
+      "path": "skills/gemini-api-cli/SKILL.md",
+      "description": "Call the Gemini API from the shell with gemini-api. Use for media generation (images, TTS, music, video), file and YouTube analysis, audio/video transcription, Deep Research, and sandboxed agents.",
+      "synced_at": "2026-11-08T15:59:59.657803Z"
+    },
+    {
+      "name": "gemini-api-dev",
+      "path": "skills/gemini-api-dev/SKILL.md",
+      "description": "Use this skill when writing code that calls the Gemini API for text generation, multi-turn chat, multimodal understanding, image generation, video generation, speech generation (TTS), voice design, voice replication, streaming responses, background research tasks, function calling, structured output, or migrating from the old generateContent API. Covers SDK usage and best practices for Gemini models and agents in Python and TypeScript.",
+      "synced_at": "2026-11-08T15:59:59.658316Z"
+    },
+    {
+      "name": "gemini-live-api-dev",
+      "path": "skills/gemini-live-api-dev/SKILL.md",
+      "description": "Use this skill when building real-time, bidirectional streaming applications with the Gemini Live API, or migrating legacy Live models (2.0/2.5/3.1) to Gemini 3.8 Live. Covers WebSocket-based audio/video/text streaming, voice activity detection (VAD), background reasoning (extended thinking), asynchronous function calling, session management, ephemeral tokens, live transcription, and live translation. SDKs covered - google-genai (Python), @google/genai (JavaScript/TypeScript).",
+      "synced_at": "2026-11-08T15:59:59.658316Z"
+    },
+    {
+      "name": "well-architected-reliability",
+      "path": "skills/well-architected-reliability/SKILL.md",
+      "description": ">-",
+      "synced_at": "2026-11-08T15:59:59.659320Z"
+    }
+  ]
+}
